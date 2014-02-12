@@ -12,6 +12,12 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <h1>Usando Git desde Cero</h1>
+        <h1>1. git Init</h1>
+         <h1>git status</h1>
+        <h1>2. git add .</h1>
+        <h1>3. git commit -m "comentarios"</h1>
+        <h1>git status</h1>
+        
     </body>
 </html>
